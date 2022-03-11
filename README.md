@@ -32,4 +32,4 @@ b. Return maximum of three strings
 
 c. Accept a string and replace every successive character with ‘#’ Example- For Given string ‘Hello World’ returned string is ‘H#l#o W#r#d’.
 
-d. Find number of words in the given string
+d. Find number of words in the given string.
